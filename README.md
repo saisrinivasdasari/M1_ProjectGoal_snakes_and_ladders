@@ -1,3 +1,6 @@
+<h1>codiga code quality</h1>
+![Code grade](https://api.codiga.io/project/31507/score/svg)
+![Code grade](https://api.codiga.io/project/31507/status/svg)
 # M1_ProjectGoal_snakes_and_ladders
 
 Introduction
