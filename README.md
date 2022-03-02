@@ -4,6 +4,9 @@
 
 ![Code grade](https://api.codiga.io/project/31507/status/svg)
 
+<h1>codacy code quality
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/99bae1fab5d441a9837c6a4885b27265)](https://www.codacy.com/gh/saisrinivasdasari/M1_ProjectGoal_snakes_and_ladders/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saisrinivasdasari/M1_ProjectGoal_snakes_and_ladders&amp;utm_campaign=Badge_Grade)
+
 # M1_ProjectGoal_snakes_and_ladders
 
 Introduction
