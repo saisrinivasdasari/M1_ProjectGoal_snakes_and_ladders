@@ -1,6 +1,9 @@
 <h1>codiga code quality</h1>
+
 ![Code grade](https://api.codiga.io/project/31507/score/svg)
+
 ![Code grade](https://api.codiga.io/project/31507/status/svg)
+
 # M1_ProjectGoal_snakes_and_ladders
 
 Introduction
@@ -15,3 +18,6 @@ Snakes and ladders is an ancient Indian board game that’s regarded today as a 
 | 3_implementation | All code and documentation |
 | 4_testplan | Documents with test |
 | 5_images | Documents with test |
+
+
+<b>Thank you. Enjoy coding.</b>
